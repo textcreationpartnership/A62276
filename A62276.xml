@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sayings and apothegms of sundry learned and eminent divines of the Church of England</title>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62276</idno><idno type="EEBO-CITATION">7840771</idno>
+  <idno type="VID">40155</idno>
+  <idno type="EEBO-PROQUEST">2264207033</idno>
+  
+            <idno type="STC">Wing S798</idno>
+            <idno type="STC">ESTC R23608</idno>
+            <idno type="OCLC">07840771</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1212:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sayings and apothegms of sundry learned and eminent divines of the Church of England</title>
+               </titleStmt>
+               <extent>31, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Philips,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Note in manuscript on verso of t.p.</note>
+                  <note>Errata : p. [33]</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy --  Quotations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40155:1"/>
+            <pb facs="tcp:40155:1"/>
+            <p>THE SAYINGS AND APOTHEGMS Of Sundry learned and Eminent DIVINES OF THE CHURCH OF ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Philips,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40155:2"/>
+            <pb n="1" facs="tcp:40155:2"/>
+            <head>THE SAYINGS AND APOTHEGMS Of Sundry Eminent and Learned DIVINES OF THE <hi>Church</hi> of <hi>England.</hi>
+            </head>
+            <div type="part">
+               <head>Of the Scriptures.</head>
+               <p>THE Writings of the Apostles are not clear in things necessary to Salvation: <hi>Thorn<g ref="char:EOLhyphen"/>dik</hi>'s Weights and Measures, <hi>Page</hi> 36.</p>
+               <p>There are some Points of Good Con<g ref="char:EOLhyphen"/>cernment, which if any man should question in a higher manner, they would prove indeterminable, by Scripture, or sufficient Reason: <hi>Bishop</hi> Tay<g ref="char:EOLhyphen"/>lor's <hi>Liberty of Prophesying</hi> pag. 89.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:40155:3"/>
+               <head>Of the Apocrypha.</head>
+               <p>FOr Edification of the Church, in the better understanding of the Manners and good Works of Christians; much abased by those who would put these Books to silence. But the whole Church having always used them; to lay them aside now, were not to restore the Church, but to build a new one: <hi>Thorndick</hi>'s Weights and Measures, <hi>pag.</hi> 100.</p>
+            </div>
+            <div type="part">
+               <head>Of the Trinity.</head>
+               <p>THey believe the Mystery of the <hi>Trinity</hi> in all those Niceties of Explication which are in the School (and which now adays pass for the Doctrin of the Church) with as much violence to the Principles of Natural and Super<g ref="char:EOLhyphen"/>natural Philosophy, as can be imagin'd to be in the Point of Transubstantiation: <hi>Bishop</hi> Taylor<hi>'s Lib of Proph.</hi> pag. 258. Numb. 16.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:40155:3"/>
+               <head>Of Original Sin.</head>
+               <p>ST. <hi>Paul</hi> seemeth expresly to teach, <hi>Rom.</hi> 2.12, and 16. That they who are not under God's Positive Law, shall be judged at the last Day by the Law of Nature; which if it be so, then shall not they be condemned for Original Sin: <hi>Thornd.</hi> Weights and Meas. <hi>p.</hi> 79.</p>
+               <p>Original Sin doth not consist in the Imputa<g ref="char:EOLhyphen"/>tion of <hi>Adam</hi>'s Sin to his Posterity. And indeed I need not dispute, that God cannot in Justice punish one Man for another Man's Sin: <hi>Thornd.</hi> Weights, <hi>&amp;c.</hi> p. 77.</p>
+               <p>It is by accident that we are more prone to many Sins, than we are to Virtue: <hi>Bishop</hi> Tay<g ref="char:EOLhyphen"/>lor<hi>'s Life of Christ,</hi> p. 46. 4th. <hi>Edit.</hi>
+               </p>
+               <p>The Sin of <hi>Adam</hi> neither made us Heirs of Damnation; nor naturally and necessarily Vici<g ref="char:EOLhyphen"/>ous: <hi>Taylor</hi> of Repentance, <hi>p.</hi> 374.</p>
+               <p>Suppose this (meaning Hell) to be but a meer private State, yet it cannot be inflicted upon Infants, as a punishment of <hi>Adam</hi>'s Sin; and upon the same account it cannot be inflicted upon any one else: <hi>Ibid.</hi> pag. 376.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:40155:4"/>
+               <head>Of the Light of Nature.</head>
+               <p>GOD was formerly known by the Light of Nature and the Works of Creation and Providence, and those partial and occasional Re<g ref="char:EOLhyphen"/>velations of his Will, which he made to the World: <hi>Sherlock</hi> of the Knowledge of Christ, <hi>p.</hi> 33. 1st. <hi>Edit.</hi>
+               </p>
+               <p>Had Christ never appeared in the World, yet we had reason to believe, that God is Wise, and Good, and Holy, and Merciful, because not only the Works of Nature and Providence, but the Word of God, assure us, that he is so: the Appearance of Christ did not first discover the Nature of God to us, but only gave us a greater expression of God's goodness, than ever we had before, confirms us in the belief of what we had learn'd before from Nature: <hi>Ibid.</hi> p. 43.</p>
+               <p>God had respect to the <hi>Gentiles</hi> before the Preaching of the Gospel, as well as since, be<g ref="char:EOLhyphen"/>cause it is founded on that Natural Relation God owns to all Mankind, as their merciful Creatour and Governour: <hi>Ibid.</hi> p. 27.</p>
+               <p>Both <hi>Jews</hi> and <hi>Heathens,</hi> who understood no<g ref="char:EOLhyphen"/>thing at all of what Christ was to do, in order to our Recovery, did believe God to be Gracious and Merciful to Sinners, <hi>&amp;c.</hi> And those Natu<g ref="char:EOLhyphen"/>ral Notions the <hi>Heathens</hi> had of God, and all those Discoveries God had made of himself in
+<pb n="5" facs="tcp:40155:4"/> the Works of Creation and Providence, did as<g ref="char:EOLhyphen"/>sure them, that God is very good, and it is not possible to understand what goodness is, without pardoning Grace: <hi>Ibid.</hi> p. 44.</p>
+            </div>
+            <div type="part">
+               <head>Of the Possibility of Perfection.</head>
+               <p>REal Evangelical Righteousness admits of <hi>vari<g ref="char:EOLhyphen"/>ous</hi> Degrees. The third Degree, and that the highest, is of such, who being most cheerfully incumbent on the study of Virtue, have pro<g ref="char:EOLhyphen"/>ceeded so far, as that for <hi>some competent space</hi> of time they sin <hi>not at all,</hi> against <hi>any</hi> Precept of Christ: <hi>Ignatius Fuller</hi>'s Funeral Sermon on Mrs. <hi>Norton,</hi> pag. 5. and pag. 6.</p>
+            </div>
+            <div type="part">
+               <head>Of Humane Satisfaction. A Prayer to be said in a Storm at Sea, <hi>&amp;c.</hi>
+               </head>
+               <p>IF it be thy will that we shall go down into the Waters, Lord, receive my Soul into thy holy hands, and preserve it in Mercy and Safety, till the Day of Restitution of all things: and be plea<g ref="char:EOLhyphen"/>sed to unite my death to the Death of thy Son, and to accept of it so united, as a punishment for all my sins: <hi>Taylor</hi>'s Holy Living, <hi>p.</hi> 377. <hi>Printed</hi> 1651.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:40155:5"/>
+               <head>Of Works of Supererogation.</head>
+               <p>THE affirmative Precepts of the Gospel, which being propounded in general terms, and with indefinite proportions, for the Measures are left under our liberty and choice, to signifie our great love to God; whatsoever is over and above the Commandments, that shall have a great reward: <hi>Taylor</hi> of Repentance, <hi>p.</hi> 48.</p>
+            </div>
+            <div type="part">
+               <head>Of the End of the Law.</head>
+               <p>OUr blessed Saviour came into the World to establish New Laws of Morality: <hi>Parker</hi>'s Ecclesiastical Polity, <hi>p.</hi> 33.</p>
+               <p>
+                  <hi>Moses</hi> Law was <hi>in the Moral part of it</hi> but a Law of Abstinence from Evil: <hi>Taylor</hi> of Repen<g ref="char:EOLhyphen"/>tance, <hi>p.</hi> 20.</p>
+            </div>
+            <div type="part">
+               <head>Of the Manner of Conversion.</head>
+               <p>THat it is impossible for us to do any thing that is good, but we must be acted like Machines, by an external force, by the irresistable power of the Grace and Spirit of God; this I
+<pb n="7" facs="tcp:40155:5"/> am sure is a new Discovery; we learn no such thing from the Gospel: <hi>Sherlock</hi> of the Know<g ref="char:EOLhyphen"/>ledge of Christ: <hi>p.</hi> 50.</p>
+               <p>
+                  <hi>According to the Doctrin of Dr.</hi> John Owen, <hi>and such Men,</hi> All the regular and ordinary Me<g ref="char:EOLhyphen"/>thods of Grace, are forced to resolve the renova<g ref="char:EOLhyphen"/>tion of our Minds into a Natural, and Physical, and immediate Operation of Christ upon our Minds, which makes all his Institutions very insi<g ref="char:EOLhyphen"/>pid and useless things, and destroys the Authority and Necessity of Christian Societies, if all Grace be so immediately derived from the Person of Christ: <hi>Sherlock</hi>'s Defence and Continuation, <hi>&amp;c. Pages</hi> 508, 509.</p>
+               <p>This device of infus'd Habits, is a fancy with<g ref="char:EOLhyphen"/>out ground, and without sense: <hi>Taylor</hi> of Repen<g ref="char:EOLhyphen"/>tance, <hi>p.</hi> 273.</p>
+               <p>It destroys all necessity of our Care and Labour in the Ways of Godliness: <hi>Ibid.</hi> p. 273.</p>
+            </div>
+            <div type="part">
+               <head>Of Ʋnion with Christ.</head>
+               <p>FEllowship and Communion with God, ac<g ref="char:EOLhyphen"/>cording to the Scripture Notion, signifies what we call a Political Union, that is, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be in fellowship with God and Christ, signifies to be of that Society, which puts us into a parti<g ref="char:EOLhyphen"/>cular relation unto God: <hi>Sherlock</hi>'s Knowledge of Christ, <hi>p.</hi> 186.</p>
+               <pb n="8" facs="tcp:40155:6"/>
+               <p>We cannot be united to Christ, till we unite our selves to the publick Societies of Christians: <hi>Ibid.</hi> p. 163.</p>
+            </div>
+            <div type="part">
+               <head>Of Merit by Works.</head>
+               <p>THe Merit or the Satisfaction which is ascri<g ref="char:EOLhyphen"/>bed unto them, <hi>(meaning Christian Works)</hi> being grounded upon that <hi>Grace bringing Salva<g ref="char:EOLhyphen"/>tion to all</hi> which <hi>hath appeared by the Gospel;</hi> it is not possible to imagin, what it can derogate from the Merits and Satisfaction of our Lord Christ: <hi>Thornd.</hi> Weights and Meas. <hi>p.</hi> 76.</p>
+               <p>The Mistake of the Schools and of the Council of <hi>Trent,</hi> after the Schools, <hi>&amp;c.</hi> concerning the Opinion of Satisfaction and Merit, in the good Works of Christians, is no way destructive to Christianity: <hi>Ibid.</hi> p. 138.</p>
+            </div>
+            <div type="part">
+               <head>Of the Satisfaction of Christ.</head>
+               <p>WHen Christ died for us, he did not die as our Surety: <hi>Sherlock</hi>'s Knowl. of Chr. <hi>p.</hi> 290.</p>
+               <p>The <hi>Socinians</hi> have no reason to be afraid of such Adversaries, who have no better way to de<g ref="char:EOLhyphen"/>fend the <hi>Satisfaction</hi> of Christ, then by the No<g ref="char:EOLhyphen"/>tion of Suretiship: <hi>Ibid.</hi> p. 291.</p>
+               <pb n="9" facs="tcp:40155:6"/>
+               <p>Discoursing concerning this Position, <hi>viz.</hi> That God cannot forgive Sin with a satisfaction paid to his Righteousness, says Mr. <hi>Sherlock,</hi> That he could not pardon without full satisfa<g ref="char:EOLhyphen"/>ction; that is, that he is so just, that he hath not one Dram of Goodness in him, till his Rage and Vengeance be satisfied; which is, I confess, a glorious kind of Justice: <hi>Sherlock</hi>'s Knowledge of Christ: <hi>p.</hi> 59.</p>
+               <p>Dr. <hi>John Owen</hi> having asserted, That in Christ the very Nature of God is discovered to be love and kindness: But how comes this to pass? says Mr. <hi>Sherlock:</hi> Why, the Account of that is very plain; because the Justice of God hath glutted it self with Revenge on Sin in the Death of Christ, and so hence-forward, we may be sure he will be very kind, as a revengeful Man is, when his Passion is over: <hi>Ibid.</hi> p. 46.</p>
+               <p>And Dr. <hi>John Owen</hi> having further said, What<g ref="char:EOLhyphen"/>ever Discoveries were made of the Lenity and Patience of God unto us, yet if it were not withal revealed, that the other <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roperties of God, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Justice and Revenge for Sin, had thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> acting<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> also assigned them to the full, there could be little consolation gathered from the former. The sum of which is, (says Mr. <hi>Sherlock</hi>) That God is all Love and Patience, when he hath taken his fill of Revenge, as others use to say, <hi>That the Devil is very good▪ when he is pleased: Sherlock</hi>'s Know<g ref="char:EOLhyphen"/>ledge of Christ, <hi>p.</hi> 47.</p>
+               <p>I cannot understand how Christ should suffer for our sins, if the guilt of our sins were transfer<g ref="char:EOLhyphen"/>red
+<pb n="10" facs="tcp:40155:7"/> upon himself: <hi>Sherlock</hi>'s Defence and Con<g ref="char:EOLhyphen"/>tinuat. <hi>p.</hi> 127.</p>
+               <p>When our sins are transferred on Christ, we are <hi>ipso facto,</hi> innocent, and his death cannot de<g ref="char:EOLhyphen"/>liver us, who are freed already, but must be only to deliver himself from this assumed Guilt: <hi>Sher<g ref="char:EOLhyphen"/>lock</hi>'s Defence and Contin. <hi>p.</hi> 128.</p>
+               <p>Dr. <hi>John Owen</hi>'s Opinion, says he, makes a very unworthy representation of Almighty God, as if he were so Just, that he is Cruel and Savage, and irreconcilable, till he has taken his fill of Revenge, and represents the whole design of Christ's death, to be only a Satisfaction of Re<g ref="char:EOLhyphen"/>venge, without which God could not be appea<g ref="char:EOLhyphen"/>sed; as if Divine Vengeance <hi>did glut and satiate</hi> it self with the Blood of Christ, instead of the blood of the sinner: <hi>Sherlock</hi>'s Defence and Con<g ref="char:EOLhyphen"/>tinuat. <hi>p.</hi> 528, 529.</p>
+               <p>To think that the Death of Christ, was a Sa<g ref="char:EOLhyphen"/>tisfaction of his (that is God's) natural and unap<g ref="char:EOLhyphen"/>peasable Vengeance and Fury, is such an Account as the Scripture no where gives us of the Death of Christ, as is incredible in it self, and irrecon<g ref="char:EOLhyphen"/>cileable with the other Perfections of the Di<g ref="char:EOLhyphen"/>vine Nature: <hi>Sherlock</hi>'s Defence and Continuat. <hi>p.</hi> 529, 530.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:40155:7"/>
+               <head>Of Justification.</head>
+               <p>THe Articles of this Church setting forth Ju<g ref="char:EOLhyphen"/>stification by Faith alone, for a most whol<g ref="char:EOLhyphen"/>som Doctrin, and full of comfort; for the sense of it refer us to the Homily upon that Subject: I will not say that my Position is laid down in that Homily, for there are many Passages of it, which shew them that penned it no way clear in that Point: <hi>Thorndike</hi>'s Weights and Measures, <hi>pag.</hi> 62.</p>
+               <p>The Mistake of the Schools, and of the Council of <hi>Trent,</hi> in the Nature of <hi>Justification,</hi> and the effect of infused Righteousness, to which they ascribe it, is no way destructive to <hi>Christianity:</hi> Ibid. <hi>p.</hi> 138.</p>
+               <p>St. <hi>Paul</hi> intended, in arguing, that a Christian is <hi>justified by Faith alo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, without the Works of the Law;</hi> to wit, That he is justified by professing <hi>Christianity</hi> so cordially, and with so good a Con<g ref="char:EOLhyphen"/>science, as to perform it: <hi>Ibid.</hi> p. 61.</p>
+               <p>
+                  <hi>Imputed Righteousness</hi> is no where to be found, that I know of, but in their own Fancies: <hi>Sher<g ref="char:EOLhyphen"/>lock</hi>'s Knowledge of Christ, <hi>p.</hi> 273.</p>
+               <p>There is no Foundation in Scripture for all this talk of a <hi>Personal Righteousness of Christ inherent in him, and imputed to us,</hi> Ibid. <hi>p.</hi> 276.</p>
+               <p>Christ being <hi>made under Law,</hi> is not to <hi>redeem us,</hi> but <hi>to redeem them that were under the Law;</hi>
+                  <pb n="12" facs="tcp:40155:8"/> that is, <hi>the Jews,</hi> who were in <hi>bondage</hi> under the <hi>Mosaical Law,</hi> from which Christ redeemed them by abrogating that Law, <hi>Ibid.</hi> p. 317.</p>
+               <p>It must necessarily be, that the <hi>Formal Cause</hi> of our Justification be intrinsical to the Person justi<g ref="char:EOLhyphen"/>fied: <hi>Scrivener</hi>'s Course of Divinity, <hi>p.</hi> 65.</p>
+               <p>Though the Scripture saith directly, that Christ is <hi>The Lord our Righteousness,</hi> and St. <hi>Paul</hi> desireth to be found in Christ, not having his own Righ<g ref="char:EOLhyphen"/>teousness, <hi>&amp;c.</hi> Yet we are not to understand hereby, that the formal Righteousness of Christ becomes our formal Righteousness; but that he is by the Gospel revealed unto us, the Teacher of Righteousness, <hi>Ibid.</hi> pag. 66.</p>
+               <p>They who to magnifie the Mystery of our Ju<g ref="char:EOLhyphen"/>stification, do object to themselves, How a Man can be just, by the justice of another, and how righteous by another Persons righteousness, any more than a Man can hear with another Man's Ears, or see with another Man's Eyes, do tye such a Knot as they can by no means loose: <hi>Scri<g ref="char:EOLhyphen"/>vener,</hi> pag. <hi>Ibid.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Justifying Faith.</head>
+               <p>THat Opinion which placeth justifying Faith in Trust and Confidence of God's Mercy through Christ, is not true: <hi>Thornd.</hi> Weights and Meas. <hi>p.</hi> 63, 64.</p>
+               <pb n="13" facs="tcp:40155:8"/>
+               <p>We are justified by believing those Revela<g ref="char:EOLhyphen"/>tions, which Christ hath made of God's Will to us: <hi>Sherlock</hi>'s Knowledge of Christ, <hi>p.</hi> 255.</p>
+               <p>Whoever places the Essence of a justifying Faith in a meer fiducial reliance on Christ, and a fanciful application of Christ's righteousness to themselves, place all their hopes immediately on the Person of Christ, which is to make a new Re<g ref="char:EOLhyphen"/>ligion of Christ's Person, in opposition to his Go<g ref="char:EOLhyphen"/>spel: <hi>Sherlock</hi>'s Defence and Contin. <hi>p.</hi> 312.</p>
+               <p>A <hi>Modish</hi> and <hi>Courtly Faith</hi> it is, which sits still, and yet sets you in the lap of Christ. It passes un<g ref="char:EOLhyphen"/>der so many Names, that I cannot stand to number them all now. It is called a casting of our selves upon Christ, a relying on his Merits, a shrouding our selves under the Robes of his Righteous<g ref="char:EOLhyphen"/>ness, <hi>&amp;c.</hi> Do you not see a strange Inchantment in it already? is it not a Magical Operation, or much beholden to strength of Fancy, and the Witchcraft of Imagination: <hi>Dr.</hi> Patrick<hi>'s Parable of the Pilgrim,</hi> p. 139, 140.</p>
+               <p>I hope your Soul will never enter into this Se<g ref="char:EOLhyphen"/>cret, nor follow the Rabble in these groundless Fancies. But you will rather put to your Hands, to pull down that Idol of Faith, which hath been set up with so much devotion, and religiously worshipped so long amongst us: that dead Image of Faith which so many have adored, trusted in, and perished: I mean the Notion which hath been so zealously advanced, how that believing is nothing else, but a <hi>relying</hi> on <hi>Jesus</hi> for Salvation; <hi>a fidu<g ref="char:EOLhyphen"/>cial recumbency on him; a casting our selves wholly
+<pb n="14" facs="tcp:40155:9"/> upon him and his Merits; or an applying of his righteousness to our Souls.</hi> And if you throw all those other Phrases after them, which tell us, that it is a <hi>taking</hi> of <hi>Christ,</hi> a <hi>laying hold</hi> of him, a <hi>closing</hi> with him, or an <hi>embracing</hi> of him; you shall do the better, and more plainly secure your self from being deceived: <hi>Ibid.</hi> pages 143, 144.</p>
+               <p>No doubt it is, that he (meaning <hi>Abraham</hi>) and all good <hi>Christians</hi> are called <hi>faithful,</hi> not from a lazy recumbency on <hi>Christ</hi> for Salvation, or the strongest application of his Merits to their Soule, if these were sufficient to make a person of that denomination; then we need no better <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> of a <hi>Faithful Servant,</hi> or <hi>Steward,</hi> (which the Holy Writings sometimes mention) than such an one as follows. He is a person that relies upon his Master's Merits; and depends only on the worth and sufficiency of his Lord. He trusts in his goodness for a Pardon of all his Faults, and hopes he will esteem him a good Servant, because he is a good Master. He leans upon his Arm, and clasps fast above him, and is resolved not to let him go, till he have paid him his Wages. He em<g ref="char:EOLhyphen"/>braces him kindly, and hopes he will account him righteous, because he is so himself. And in one word, He applies to himself all the good Works that his Master hath performed; and prays to be excused if he doth not his business because that his Lord can do it better. Is not this a very ridiculous description? or would you be content to be thus served? Do not then imagin that God
+<pb n="15" facs="tcp:40155:9"/> will be served after this fashion; or that such an ill favoured Notion as this, is the best that can be found to compose the definition of a true Belie<g ref="char:EOLhyphen"/>ver: <hi>Dr.</hi> Patrick's <hi>Parable,</hi> p. 149.</p>
+            </div>
+            <div type="part">
+               <head>Of the Patriarchs Faith.</head>
+               <p>NO Man could believe in <hi>Christ,</hi> till he came: <hi>Sherlock</hi>'s Knowledge of Christ, <hi>p.</hi> 247.</p>
+               <p>
+                  <hi>Abraham</hi>'s Faith was not a <hi>Faith in Christ (and further he sayd)</hi> nor a <hi>fiducial reliance</hi> and <hi>recum<g ref="char:EOLhyphen"/>bency</hi> on Christ for Salvation: <hi>Ibid.</hi> p. 247.</p>
+               <p>A belief of the Principles of Natural Religion, which is founded upon Natural Demonstrations or Moral Arguments, which was the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of <hi>Abel</hi> and <hi>Enoch,</hi> whereby they pleased God: and God required no more of those good Men▪ <hi>Sher<g ref="char:EOLhyphen"/>lock's</hi> Knowledge of Christ, <hi>p.</hi> 253.</p>
+            </div>
+            <div type="part">
+               <head>Of Perseverance</head>
+               <p>IT is a thing prodigious and deplorable to con<g ref="char:EOLhyphen"/>sider, That they who would be Reformers of the Church, should think it no state of Grace that can become forfeit by sin: <hi>Thornd.</hi> Weights and Meal. <hi>p.</hi> 70.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:40155:10"/>
+               <head>Of Prayers for the Dead.</head>
+               <p>THough there be hope for those that are most sollicitous to live and die Good Christians, that they are in no such suspense, but within the bounds of the heavenly <hi>Jerusalem;</hi> yet, because their Condition is uncertain, and where there is hope of the better, there is fear of the worse; therefore the Church hath always assisted them with the Prayers of the living, both for their speedy Tryal, (which all blessed Souls desire) and for their easie Absolution, and Discharge with glory before God: <hi>Thornd.</hi> Weights, <hi>&amp;c.</hi> p. 107.</p>
+               <p>There is the same ground to believe the Com<g ref="char:EOLhyphen"/>munion of Saints, in the Prayers, which those that depart in the highest favour with God make for us, in the Prayers which we make for those which depart in the lowest favour with God, that there is for the common Christianity; name<g ref="char:EOLhyphen"/>ly, the Scriptures interpreted by the perpetual Practice of God's Church: <hi>Ibid.</hi> p. 159.</p>
+            </div>
+            <div type="part">
+               <head>Of Feast Days.</head>
+               <p>WHat Reason can endure that the <hi>Church</hi> should be bound to keep the first day of the Week, by that Precept, which tyed the Syna<g ref="char:EOLhyphen"/>gogue
+<pb n="17" facs="tcp:40155:10"/> to keep the last Day of the Week? Seeing then the obligation of it is to be derived from the Acts of the Apostles; that is, from the Power of the <hi>Church:</hi> for being once received by the whole <hi>Church,</hi> it is for ever received to the same effect, if the Premises be true, it is the same Ob<g ref="char:EOLhyphen"/>ligation that tyes all to observe the times appoint<g ref="char:EOLhyphen"/>ed for the Service of God, by the <hi>Church,</hi> whether Fasting Days or Festivals: <hi>Thorndike</hi>'s Weights and Measures, <hi>p.</hi> 113.</p>
+               <p>The <hi>Lent</hi> Fast, and the keeping of the Lord's Day, stand both upon the same Authority: <hi>Ibid.</hi> p. 121.</p>
+            </div>
+            <div type="part">
+               <head>Of Ceremonies in Divine Worship.</head>
+               <p>CEremonies signified by the Churches Institu<g ref="char:EOLhyphen"/>tion are necessary in Gods Service: <hi>Thornd.</hi> Weights, <hi>&amp;c.</hi> p. 116.</p>
+            </div>
+            <div type="part">
+               <head>Of Idolatry.</head>
+               <p>AS they who justifie the Reformation, by char<g ref="char:EOLhyphen"/>ging the <hi>Pope</hi> to be Antichrist, and the <hi>Papists</hi> Idolaters; so, on the other side, they who over<g ref="char:EOLhyphen"/>charge the Reformation to be Hereticks, make themselves thereby Schismaticks before God: <hi>Thornd.</hi> Weights, <hi>&amp;c.</hi> p. 7.</p>
+               <pb n="18" facs="tcp:40155:11"/>
+               <p>The Images which the Second Commandment supposeth, are the representations of other Gods, which his People were wont to commit Adultery with, by worshipping them for God: <hi>Ibid.</hi> p. 166.</p>
+               <p>Reverencing of Images in Churches is not Ido<g ref="char:EOLhyphen"/>latry: <hi>Ibid.</hi> p. 127.</p>
+               <p>To reverence the Images of Saints can be no Idolatry, so long as Men take them for Saints; that is, God's Creatures, much less to the Image of our Lord, for it is the Honour of the Lord, and not of his Image: <hi>Ibid.</hi> p. 127.</p>
+               <p>The Worship of the Host in the Papacy, is not Idolatry: <hi>Ibid.</hi> p. 125.</p>
+               <p>Were worshipping the Host Idolatry, Christia<g ref="char:EOLhyphen"/>nity, using the Gesture of Kneeling, to signifie the Worship of Christ, were enough to sanctifie it to God's Service: <hi>Ibid.</hi> p. 126.</p>
+               <p>They which profess the only true Christ, and therefore the only true God, do necessarily pro<g ref="char:EOLhyphen"/>fess to detest all Idolatry; which the Profession of Christianity effectively rooted out of the World, wheresoever it prevailed. And so doth the Church of <hi>Rome</hi> still as seriously profess, as they who charge them to be Idolaters: <hi>Ibid.</hi> p. 6.</p>
+               <p>Idolatry is a forsaking the true God, and giving Divine Worship to a Creature or to an Idol; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat is, to an imaginary God, who hath no foundation in Essence or Existence: <hi>Bishop</hi> Taylor<hi>'s Lib. of Prophes.</hi> p. 25<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:40155:11"/>
+               <head>Of the Higher Powers.</head>
+               <p>IT is absolutely necessary to the Peace and Go<g ref="char:EOLhyphen"/>vernment of the World, that the Supreme Ma<g ref="char:EOLhyphen"/>gistrate of every Common-Wealth, should be vest<g ref="char:EOLhyphen"/>ed with a Power to govern and conduct the <hi>Con<g ref="char:EOLhyphen"/>sciences</hi> of Subjects in Affairs of Religion: <hi>Parker</hi>'s Eccles. Polity, <hi>p.</hi> 10. 1st. <hi>Edit.</hi>
+               </p>
+               <p>Unless Princes have power to bind their Sub<g ref="char:EOLhyphen"/>jects to that Religion that they apprehend most advantagious to publick Peace and Tranquillity, they are no better than Statues and Images of Authority, and want that part of their Power which is most necessary to a right Discharge of their Government: <hi>ibid.</hi> p. 12.</p>
+               <p>If we would speak properly, the Commands of Authority perfectly determine and evacuate all Doubtfulness and Irresolution of Conscience: <hi>ibid</hi> p. 287.</p>
+               <p>When Authority casts its Commands into the Scale (if in some Mens Consciences they weigh any thing) they cannot but add Weight more than enough to determine the Judgment, and in<g ref="char:EOLhyphen"/>cline the Balance: <hi>ibid.</hi> p. <hi>idem.</hi>
+               </p>
+               <p>To act against the Inclinations of our own Doubts and Scruples, is so far from being criminal, that 'tis an eminent Instance of Virtue, and im<g ref="char:EOLhyphen"/>plies in it, besides its subserviency to the wel<g ref="char:EOLhyphen"/>fare of Mankind, the great Duties of Modesty,
+<pb n="20" facs="tcp:40155:12"/> Peaceableness, and Humility: <hi>Ibid.</hi> p. 303.</p>
+               <p>Private Men are not properly <hi>sui Juris:</hi> they have no power over their own Actions, they are not to be directed by their own Judgments, or determined by their own Wills; but by the Com<g ref="char:EOLhyphen"/>mands and Determinations of the Publick Con<g ref="char:EOLhyphen"/>science: And if there be any sin in the Com<g ref="char:EOLhyphen"/>mand, he that imposed it, shall answer for it, and not I, whose whole Duty 'tis to obey: The Com<g ref="char:EOLhyphen"/>mands of Authority will warrant my Obedience; my Obedience will hallow, or at least excuse my Action, and so secure me from Sin, if not from Error; because I follow the best Guide, and most probable Direction I am capable of: and though I may mistake, my Integrity shall preserve my In<g ref="char:EOLhyphen"/>nocence. And in all doubtful and disputable Cases, 'tis better to Err with Authority, than to be in the Right against it: <hi>ibid</hi> p. 308.</p>
+               <p>They (meaning Governours) whose business it is to understand Publick Affairs, and therefore in all such Matters, their Commands are the Supreme Rule of Conscience: <hi>ibid.</hi> p. 309.</p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:40155:12"/>
+               <head>Of the Pope and Popery.</head>
+               <p>AS for the <hi>Protestant Arguments</hi> taken out of the <hi>Apocalypse,</hi> to prove the <hi>Pope</hi> to be An<g ref="char:EOLhyphen"/>tichrist, <hi>Bellarmine</hi> calleth them <hi>deliramenta</hi> do<g ref="char:EOLhyphen"/>tages: <hi>Pelag. Redi.</hi> p. 39. 2d. <hi>Table.</hi> But further in the Appeal, he termeth them <hi>Apocalyptical Phrensies.</hi>
+               </p>
+               <p>Many learned in our <hi>Church,</hi> especially when the greatest heat was stricken between us and <hi>Rome,</hi> have affirmed the <hi>Pope</hi> to be Antichrist, yet to them that calmly and seriously consider it, it may not without good reason be disputed as doubtful: <hi>Id.</hi> p. 53.</p>
+               <p>I have yet one thing more to say to you in this Point, St. <hi>John</hi> hath given it for a Rule, that every Spirit that confesseth not that <hi>Jesus Christ</hi> is come in the flesh, is not of God, but is that Spirit of Antichrist, whereof ye have heard. So that un<g ref="char:EOLhyphen"/>less ye can make good, (as I think you cannot) that the Pope of <hi>Rome</hi> confesseth not that <hi>Jesus Christ</hi> is come in the flesh, you have no reason to conclude that he is Antichrist: <hi>Id.</hi> p. 128.</p>
+               <p>A Primacy of Order was never denied to St. <hi>Peter,</hi> that <hi>Rome</hi> had <hi>Potentiorem Principatum,</hi> than other Churches: the Protestants grant, and that not only, because the <hi>Roman</hi> Prelate was <hi>or<g ref="char:EOLhyphen"/>dine Primus,</hi> first in Order and Degree, which some one must be, to avoid confusion: <hi>Bishop</hi> Laud<hi>'s Relat.</hi> p. 183.</p>
+               <pb n="22" facs="tcp:40155:13"/>
+               <p>
+                  <hi>Austin</hi> saith indeed, that in the <hi>Church</hi> of <hi>Rome,</hi> there did ever flourish the Principality of an Apostolick Chair, this no Man denies: <hi>Ibid.</hi> p. 154.</p>
+               <p>Miserable were we, if he that now fits Arch<g ref="char:EOLhyphen"/>bishop of <hi>Canterbury,</hi> could not derive his Suc<g ref="char:EOLhyphen"/>cession from St. <hi>Augustine,</hi> St. <hi>Augustine</hi> from St. <hi>Gregory,</hi> St. <hi>Gregory</hi> from St. <hi>Peter.</hi> What a comfort is it to his Grace, that he can say, <hi>Ego sum Haeres Apostolorum,</hi> I, and my Predecessors have kept possession: <hi>Pocklingt. Altare,</hi> p. 50.</p>
+               <p>Our Diocesian can derive himself the Successor of an Apostle, otherwise we should have taken his Call for the Voice of a stranger, and not have appeared. It is St. <hi>Augustine</hi>'s Resolution, <hi>Suc<g ref="char:EOLhyphen"/>cessio Episcoporum ab ipsa sede</hi> Petri, is that which among other things by him named, keeps us in the bosom of the <hi>Church,</hi> and subjects us to our Bi<g ref="char:EOLhyphen"/>shops Jurisdiction: <hi>Pokling. Sund.</hi> at the begin<g ref="char:EOLhyphen"/>ning of the Book.</p>
+               <p>It is plain, that in these antient Times, in the Church Government, <hi>Britain</hi> was never subject to the See of <hi>Rome,</hi> for it was one of the Six Diocies of the <hi>West Empire,</hi> and had a Primate of its own: Nay <hi>John Capgraw</hi> and <hi>William Mabin<g ref="char:EOLhyphen"/>nesburrie</hi> tell us, that Pope <hi>Ʋrban</hi> the 2d, in the Council at <hi>Bari</hi> in <hi>Apuleia,</hi> accounted my worthy Predecessor St. <hi>ANSELME</hi> as his own Com<g ref="char:EOLhyphen"/>peer, and said he was as the Patriarch and Aposto<g ref="char:EOLhyphen"/>lick of the other World, <hi>Quasi Comparem, &amp; ve<g ref="char:EOLhyphen"/>luti Apostolicum alterius Orbis &amp; Patriarcham.</hi> Now the <hi>Britains</hi> having a Primate of their own,
+<pb n="23" facs="tcp:40155:13"/> which is greater than a Metropolitan, yea, a Pa<g ref="char:EOLhyphen"/>triarch, if ye will, he could not be app<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d from to <hi>Rome:</hi> Archbishop <hi>Laud</hi>'s Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. <hi>p.</hi> 171.</p>
+               <p>The <hi>Lincolnshire</hi>-Minister, in his jearing vein. flouteth Cardinal <hi>Baroneus,</hi> whereas, if he list to read his Life, he may not be ignorant that the Cardinal was a Man of Exemplary Holiness, and spent the greatest part of his Life in Fasting, Prayer, Alms-deeds, Preaching, Exhortation, and Doctrin, and did detest both Impiety and Vanity, both in Word and Deed. Methinks his Conscience should check him for his scornful usage of a Man who had the Report of so virtuous and pious a Bishop: <hi>Pokling. Alt.</hi> p. 34.</p>
+               <p>The Church of <hi>Rome,</hi> and <hi>Protestants,</hi> set not up a different Religion, for the Christian Reli<g ref="char:EOLhyphen"/>gion is the same to both, but they differ in the same Religion, and the difference is in certain gross Cor<g ref="char:EOLhyphen"/>ruptions to the very endangering of Salvation, which each side saith the other is guilty of: <hi>Bi<g ref="char:EOLhyphen"/>shop</hi> Laud's <hi>Relat.</hi> p. 36.</p>
+               <p>The Learned make but three Religions to have been of old in the World, <hi>Paganism, Judaism,</hi> and <hi>Christianity,</hi> and now they have added a fourth, which is <hi>Turcism.</hi> Now if this Ground of theirs be true, as it is generally received, perhaps it will be of dangerous consequence sadly to avow, that the <hi>Popish Religion</hi> is Rebellion, though this Clause passed in the <hi>Liturgy</hi> in King <hi>James</hi>'s time: this Reason well weighed, is taken from the Foundation of Religion it self: <hi>Star-Chamber-Speech,</hi> p. 36.</p>
+               <pb n="24" facs="tcp:40155:14"/>
+               <p>We dare not communicate with <hi>Rome,</hi> either in her publick <hi>Liturgy,</hi> which is manifestly pollu<g ref="char:EOLhyphen"/>ted with gross Superstition, or in these corrupt and ungrounded Opinions, which she hath added to the Faith. These make up the <hi>Popery,</hi> but not the Church of <hi>Rome:</hi> in them our Communion is dissolved, but we have still a true and real Union with that and all other Members of the Church Universal in Faith and Charity: <hi>Pottar</hi>'s <hi>Char.</hi> p. 66.</p>
+               <p>To depart from the Church of <hi>Rome</hi> in some Doctrines and Practices, we had just and neces<g ref="char:EOLhyphen"/>sary cause, though the Church of <hi>Rome</hi> wanted nothing necessary to Salvation. There is great difference betwixt Schism from them, and Refor<g ref="char:EOLhyphen"/>mation of our self. It is one thing to leave <hi>Com<g ref="char:EOLhyphen"/>mun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> with the <hi>Church</hi> of <hi>Rome,</hi> and another to leave <hi>communicating</hi> with her Errors, whosoever professeth himself to forsake the <hi>Communion</hi> of any one Member of <hi>Christ's Body,</hi> must confess himself consequently to forsake the <hi>whole.</hi> And therefore we forsake not <hi>Rome's Communion</hi> more nor the <hi>Body of Christ,</hi> whereof we acknowledge the <hi>Church of Rome</hi> to be a Member, though cor<g ref="char:EOLhyphen"/>rupted: if any Zealots have proceeded among us to heavier <hi>Censures,</hi> their Zeal may be excused, but their Charity and Wisdom cannot be justified: <hi>Ibid.</hi> p. 34.</p>
+               <p>The <hi>Protestants</hi> have not left the <hi>Church of Rome</hi> in her Essence, but in her Errors, not in Things which constitute a <hi>Church,</hi> but only such Abuses and Corruptions which work to<g ref="char:EOLhyphen"/>ward
+<pb n="25" facs="tcp:40155:14"/> the dissolution of a <hi>Church:</hi> Bishop <hi>Laud</hi>'s Relat. <hi>p.</hi> 192.</p>
+               <p>The Foundation is and remaineth whole in the Midst of their Superstitions: <hi>Ibid.</hi> p. 249.</p>
+               <p>Suppose a great Prelate in the <hi>High Commission Court</hi> had said openly, that We and the <hi>Church of Rome</hi> differed not in <hi>Fundamentalibus,</hi> yet how cometh this to be an Innovation in the Doctrine of <hi>England?</hi> for that <hi>Church</hi> telleth us in the 19th <hi>Article,</hi> that <hi>Rome</hi> doth err in Matters of Faith; but it hath not told us, that she doth err in <hi>Fundamentalibus:</hi> Heylin<hi>'s</hi> Answ. <hi>p.</hi> 124.</p>
+               <p>It is the charitable profession of zealous <hi>Luther,</hi> that under the <hi>Popery</hi> there is much <hi>Christian good,</hi> yea, All, that under the <hi>Papacy</hi> there is true <hi>Chri<g ref="char:EOLhyphen"/>stianity,</hi> yea, the Kernel of <hi>Christianity;</hi> neither do we censure that <hi>Church</hi> for what it hath not, but for what it hath Fundamental Truth, is like the <hi>Maronian</hi> Wine, which if it be mixed with twenty times so much Water, holds his strength. <hi>Rome,</hi> as it is <hi>Babylon,</hi> we must come out of it; but as it is an outward visible <hi>Church,</hi> we neither did, nor would: <hi>Popery</hi> is Poison, but <hi>fundamen<g ref="char:EOLhyphen"/>tal Truth</hi> is an Antidote: a little quantity of An<g ref="char:EOLhyphen"/>tidote, that is soveraign, will destroy much Poi<g ref="char:EOLhyphen"/>son: <hi>Hall</hi>'s Old Religion, at the beginning of it.</p>
+               <p>The most necessary and fundamental Truths which constitute a <hi>Church,</hi> are on both sides un<g ref="char:EOLhyphen"/>questioned: <hi>Pottar</hi>'s Ch. <hi>p.</hi> 62.</p>
+               <pb n="26" facs="tcp:40155:15"/>
+               <p>By Fundamental Points of Faith, we under<g ref="char:EOLhyphen"/>stand these <hi>prime</hi> and <hi>capital Doctrines</hi> of Reli<g ref="char:EOLhyphen"/>gion, which make up the <hi>Holy Catholick Faith,</hi> which essentially constitutes a <hi>true Church,</hi> and a <hi>true Christian.</hi> The <hi>Apostles Creed,</hi> taken in a <hi>Catholick sense,</hi> that is as it was further opened in some parts, by occasion of emergent Heresies in the other <hi>Catholick Creed</hi> of <hi>Nice, Constantinople, Ephesus, Chalcedon,</hi> and <hi>Athanasius,</hi> is said gene<g ref="char:EOLhyphen"/>rally by the School-men and Fathers, to com<g ref="char:EOLhyphen"/>prehend a perfect Catalogue of Fundamental Truths, and to imply a full rejection of fundamen<g ref="char:EOLhyphen"/>tal Heresies: <hi>Ibid.</hi> p. <hi>Id.</hi>
+               </p>
+               <p>It seemed to some Men of great Learning and Judgment, such as <hi>Hooker</hi> and <hi>Morton,</hi> that all who profess to love the Lord Jesus, are Brethren, and may be saved, though with Errors, even Fun<g ref="char:EOLhyphen"/>damental Truths, and to imply a full rejection of fundamental Heresies: <hi>Ibid.</hi> p. 109.</p>
+               <p>In things not necessary, though they be Di<g ref="char:EOLhyphen"/>vine Truths, if about them Men differ, it is no more than they have done, more, or less, in all Ages, and they may differ, and yet preserve that one necessary Faith entire, and Charity also, if they be so well minded, for Opinions which flatter about that one Soul-saving Faith, there are dangerous differences this day: <hi>Bishop</hi> Laud<hi>'s Relat.</hi> p. 361.</p>
+               <p>It is a great vanity to hope or expect, that all learned Men in this Life should absolutely con<g ref="char:EOLhyphen"/>sent in all the Particles of the Divine Truth, so long as the Faith once delivered to the Saints,
+<pb n="27" facs="tcp:40155:15"/> and that common Faith, containing all necessary verities, is keeped. So long as Men walk charita<g ref="char:EOLhyphen"/>bly, according to this Rule, though in other things they be otherwise minded, the Unity of the Church is no wise violated: for it doth con<g ref="char:EOLhyphen"/>sist in the Unity of Faith, not of Opinions, in the union of Mens Hearts, by true Charity, which easily tolerateth unnecessary Differences: Some Points of Religion, are Primitive Articles, essen<g ref="char:EOLhyphen"/>tially necessary in the object of Faith: dissention in these is pernicious, and destroyeth Unity; other are secondary, probable, obscure and acci<g ref="char:EOLhyphen"/>dental Points; Disputations in these are tolerable; unity in these is very contingent and variable: as in Musical Consort, a Discord now and then, so it be in the discant, and depart not from the Ground, sweetens the Harmony: so the variety of Opinions and Rites in divers parts of the <hi>Church,</hi> doth rather commend than prejudice the Unity of the whole: <hi>Pottar</hi>'s Charity, <hi>p.</hi> 38.</p>
+               <p>Truth is of two sorts among Men, manifest and confessed Truth, or more obscure and involved Truth: Plainly delivered in Scripture are all these Points which belong unto Faith and Man<g ref="char:EOLhyphen"/>ners, Hope and Charity: I know none of these controverted <hi>inter partes.</hi> The Articles of our <hi>Creed</hi> are confessed on both sides, and held plain enough; the controverted Points are of a larger and inferiour Allay: of them a Man may be ig<g ref="char:EOLhyphen"/>norant, without any danger of his Soul at all: A Man may resolve or oppose this way, or that
+<pb n="28" facs="tcp:40155:16"/> way, without peril of perishing: <hi>Mentag. Anti<g ref="char:EOLhyphen"/>gog.</hi> p. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</p>
+               <p>The Corruptions of <hi>Rome</hi> materially, and in the v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry kind and nature, are Leaven, Dross, Hay, and Stubble, yet the Bishop thought that such as were misled by Education, or long Cu<g ref="char:EOLhyphen"/>stom, or overvaluing the Sovereignty of the <hi>Roman Church,</hi> and did in simplicity of heart em<g ref="char:EOLhyphen"/>brace them, might by their general Repentance and Faith in the Merits of Christ, attended with Charity, and other Virtues, find Mercy at God's hands: <hi>Laud</hi>'s Relat. near the end.</p>
+               <p>Though there be some differences among us in <hi>Ceremonies</hi> and <hi>Expositions,</hi> which destroy not, yet still our Head, Christ, by Baptism stands upon our Body, and the substance of the Gospel is en<g ref="char:EOLhyphen"/>tire and whole among us, by retaining the Ar<g ref="char:EOLhyphen"/>ticles of the Faith, the Volumn of the <hi>New Testa<g ref="char:EOLhyphen"/>ment,</hi> and the Practice thereof by Faith and good Works: <hi>Shelfoord,</hi> p. 235.</p>
+               <p>There be Differences which hinder our Agree<g ref="char:EOLhyphen"/>ment, what then? Among the <hi>Greeks</hi> there were divers Dialects, and yet they had but one Lan<g ref="char:EOLhyphen"/>guage; they held together in the Main. So though <hi>Papists</hi> have a Letter more than we, and we one Letter for another, yet we hold together in the <hi>Radix. Paul</hi> could bear with differences, expecting God's Reformation, <hi>if you be otherwise minded, God shall reveal.</hi> For the present, let us be patient, and afterward God will shew where the Error lyeth; Why should we presume so much of our skill, while we are in our Nonage, and
+<pb n="29" facs="tcp:40155:16"/> know but in part? Have not better Men than we been deceived? Have not dissenting Fathers, and sliding Schoolists, been always born within Points of Religion: <hi>ibid.</hi> p. 239.</p>
+               <p>We hope well of these Holy Souls, who in former Ages lived and died in the <hi>Church of Rome,</hi> for though they died in many sinful Errors, yet because they did it ignorantly, through unbelief, not knowing them either to be Er<g ref="char:EOLhyphen"/>rors, or Sins, and repented in general for all their unknown Trespasses, we doubt not, but they obtained the pardon of all their Ignorances; nay, our Charity reaches further, to all these that this day, who in simplicity of heart, believe the <hi>Roman</hi> Religion, and profess it. But we understand only Them who have no sufficient Means to find the Truth, or else as after the use of the best means they can have, all things con<g ref="char:EOLhyphen"/>sidered, find no sufficient Motives to convince their Conscience of Errors: <hi>Pottar</hi>'s Charity, <hi>&amp;c.</hi> p. 77.</p>
+               <p>I am not in the mind that all Images are Idols, but only when they are worshipped for Gods; this the word <hi>Idolatria</hi> sighifieth the worshipping of Images with <hi>latria,</hi> that is Divine Worship, as it is used by Divines: <hi>Shelfoord,</hi> p. 300.</p>
+               <p>They keep close to that which is Superstition, and in the case of Images, come near to Idolatry: <hi>Bishop</hi> Laud<hi>'s Relat.</hi> p. 299.</p>
+               <p>You say, that Images must not have <hi>latria:</hi> so we: let your Practice and Doctrine go toge<g ref="char:EOLhyphen"/>ther, and we agree. <hi>Dow</hi> against <hi>Burton</hi> objecteth,
+<pb n="30" facs="tcp:40155:17"/> that my Lord <hi>Canterbury</hi> did raze out of the Pub<g ref="char:EOLhyphen"/>lick Book of Fasts, this Sentence, <hi>Thou hast delivered us from Superstition and Idolatry, where<g ref="char:EOLhyphen"/>in we were utterly drowned:</hi> His chief Answer is, that Men may be good <hi>Protestants,</hi> and yet not damn all their Fore-fathers, who lived before the Reformation, as he must do, who saith of them, they were wholly drowned in Idolatry, which though <hi>M. Burton</hi> perhaps will not, yet some Men may think it to be a Reason sufficient for the leaving out of that Sentence: <hi>Montag. Anti<g ref="char:EOLhyphen"/>gag.</hi> p. 319.</p>
+               <p>Every Sect hath some Zealots so passionately in love with their own Opinions, that they condemn all other differing from them, to be heretical, so there liveth not a Christian on Earth, who in the judgment of many other, is not an Heretick. The Gyant in <hi>Gath</hi> was a true Man, though much deformed with superfluous Fingers and Toes, but if one lose any Vital Part, he is a Man no longer; there is not so much danger in adding superfluities, as in detracting what is essential and necessary; that the Church shall never be robbed of any truth, necessary to the Being of the Church, the Promises of Christ assureth us, but that she shall add no unnecessary truth, we have no warrant: <hi>Pottar,</hi> p. 102.</p>
+               <p>If any will be a Leader and Teaching-Heretick, and add Schism to Heresies, and be obstinate in both, he, without repentance, must needs be lost, while many that succeed him in the errour only, and no obstinacy, may be saved: I say, those
+<pb n="31" facs="tcp:40155:17"/> however misled, are neither Schismaticks nor He<g ref="char:EOLhyphen"/>reticks before God, and are therefore in a state of Salvation: <hi>Bishop</hi> Laud<hi>'s</hi> Relat. <hi>p.</hi> 316.</p>
+               <p>Let us <hi>Christians</hi> leave off our Divisions, the <hi>Papists</hi> and we call upon one God, our Father; upon one Christ, our Saviour; one Holy Ghost, our Sanctifier; and we have but one mean to unite us to this holy Uni-Trinity, which is Baptism; how then should we not be Brethren? O blessed Jesus, raise up one to bid the People re<g ref="char:EOLhyphen"/>turn: Blessed be that Peace-maker among Men. <hi>Nulla salus bello pacem te poscimus omnes:</hi> Shel<g ref="char:EOLhyphen"/>foord, <hi>p.</hi> 238.</p>
+               <p>Why judge we so eagerly others, for holding of Errors, is any without them? Some Errors we may bear with; Charity teacheth me to judge, that Errors of Christianity, are not of intention, but ignorance; for I believe that willingly, and willingly, neither <hi>Papist, Protestant,</hi> nor <hi>Luthe<g ref="char:EOLhyphen"/>ran,</hi> would wrong their Head, Christ, whom daily they profess: <hi>Shelfoord,</hi> p. 296.</p>
+               <p>It seemed to some Men of great Learning and Judgment, such as <hi>Hooker</hi> and <hi>Morton,</hi> that all who profess to love the Lord Jesus, are Brethren, and may be saved, though with Errors, even fundamen<g ref="char:EOLhyphen"/>tal Hereticks do embrace the Principles of Chri<g ref="char:EOLhyphen"/>stianity, and err only by misconstruction. Where<g ref="char:EOLhyphen"/>upon their Opinions, albeit repugnant indeed to Faith, yet are held otherwise by them, and main<g ref="char:EOLhyphen"/>tained as Consonant to the Faith: <hi>Ibid.</hi> p. 100.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:40155:18"/>
+            <pb facs="tcp:40155:18"/>
+            <head>ERRATA.</head>
+            <p>PAg. 3. l. 19. for private, r. privative. p. 9. l. 2. for with a satisfaction, r. without a satisfaction. p. 11. l. <hi>penult.</hi> r. under the Law. p. 18. l. 10. for honour of the Lord, r. ho<g ref="char:EOLhyphen"/>nour of our Lord. p. 26. l. 17. r. even in fundamental truths.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
